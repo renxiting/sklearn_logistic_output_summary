@@ -41,4 +41,3 @@ sl = slmw.logistic(X, y_one, X_test, y_test,sample_weight=sample_weight)
 
 res = sl.logistic_()
 
-"""
