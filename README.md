@@ -11,8 +11,7 @@ the third part is model evaluation, including AUC, KS and related charts and so 
 
 Please refer to 3.sklearn构建p值.ipynb
 
-"""example
-#x为数组
+example:
 import numpy as np
 import pandas as pd
 from sklearn.datasets import load_boston
